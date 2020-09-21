@@ -1,0 +1,57 @@
+ body{
+  display: grid;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  font: 1rem Poppins;
+  margin: 0;
+  background-color: rgb(71, 115, 236);
+  }
+  
+header{
+  display: grid;
+  align-content: center;
+  width: 100%;
+  margin: auto 0;
+  position: relative;
+  color: rgb(71, 115, 236); 
+  background-color: white;
+}
+img{
+  padding: 10px;
+}
+.landing-content{
+  position: relative;
+  display: grid;
+  align-content: center;
+  }
+
+  h2{
+    color: white;
+  }
+
+  table{
+    color: white;
+    border-color:white;
+  }
+  
+  button{
+    border-radius: 10px;
+    font-family: Poppins;
+    font-size:  20px; 
+    width: 200px;
+    height: 50px;
+    border: none;
+  }
+
+  footer{
+    display: grid;
+    align-content: center;
+    width: 100%;
+    margin: auto 0;
+    position: relative;
+    color: rgb(71, 115, 236); 
+    background-color: white;
+    margin: 0;
+  }
